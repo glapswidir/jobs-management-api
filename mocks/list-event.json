@@ -1,4 +1,7 @@
 {
+  "queryStringParameters": {
+    "babysitterId": "b570541a-20e4-4332-9ad5-dd66aea40491"
+  },
   "requestContext": {
     "identity": {
       "cognitoIdentityId": "USER-SUB-1234"
